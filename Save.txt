@@ -1,0 +1,12 @@
+<div class="sponsor-member">
+                <div class="member-card sponsor-card-special">
+                    <div class="member-avatar">
+                        <span class="member-initial">P</span>
+                    </div>
+                    <div class="member-info">
+                        <h3 class="member-name">Mrs. Pfaffinger</h3>
+                        <p class="member-role">Faculty Sponsor</p>
+                        <p class="member-bio">Dedicated educator supporting student innovation and creative exploration</p>
+                    </div>
+                </div>
+            </div>
